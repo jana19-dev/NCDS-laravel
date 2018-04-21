@@ -20,7 +20,7 @@
 
     <title>@yield('title')</title>
 </head>
-<body class="stretched">
+<body class="stretched {{ $page_transition or 'no-transition' }}" data-speed-out="00" data-animation-in="fadeInDownBig">
     <!-- The Main Wrapper
 	============================================= -->
     <div id="wrapper" class="clearfix">
@@ -28,21 +28,10 @@
 		============================================= -->
         @include('layouts.header')
         @yield('slider')
+
         <!-- Site Content
 		============================================= -->
-        <section id="content">
-
-            <div class="content-wrap">
-
-                <div class="container clearfix">
-
-                    @yield('content')
-
-                </div>
-
-            </div>
-
-        </section>
+        @yield('content')
 
         <!-- Footer
 		============================================= -->
@@ -81,6 +70,10 @@
     <!-- Footer Scripts
     ============================================= -->
     <script src="{{asset('js/functions.js')}}"></script>
+
+    <!-- Custom Scripts
+    ============================================= -->
+    <script src="{{asset('js/custom.js')}}"></script>
 </body>
 
 </html>
