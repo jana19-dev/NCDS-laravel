@@ -13,6 +13,7 @@
     <link rel="stylesheet" href="{{asset('css/animate.css')}}" type="text/css" />
     <link rel="stylesheet" href="{{asset('css/magnific-popup.css')}}" type="text/css" />
     <link rel="stylesheet" href="{{asset('css/responsive.css')}}" type="text/css" />
+    <link rel="stylesheet" href="{{asset('css/custom.css')}}" type="text/css" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
     <link rel="icon" href="{{asset('images/logo.png')}}" type="image/png" sizes="16x16">
@@ -26,7 +27,7 @@
         <!-- Header
 		============================================= -->
         @include('layouts.header')
-
+        @yield('slider')
         <!-- Site Content
 		============================================= -->
         <section id="content">

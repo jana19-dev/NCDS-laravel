@@ -12,9 +12,7 @@
 */
 
 
-// All routes are localized
-Route::get('/', 'HomeController@index');
-
+// Switch Locale
 Route::get('/changeLocale', function () {
     if (App::isLocale('en')) {
         Session::put('applocale', 'ta');
@@ -23,3 +21,6 @@ Route::get('/changeLocale', function () {
     }
     return back();
 });
+
+Route::get('/', 'HomeController@index');
+
