@@ -24,3 +24,5 @@
 .mfp-content {
 	width: 80%;
 }
+
+#header.static-sticky ~ #page-menu.sticky-page-menu #page-menu-wrap { top: 100px; }

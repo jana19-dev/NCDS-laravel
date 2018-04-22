@@ -21,10 +21,10 @@
                         <div class="col-lg-2 col-md-4 bottommargin">
                             <div class="team">
                                 <div class="team-image">
-                                <img src="{{asset('data/theepam/'.$publication.'/cover.jpg')}}" alt="{{$publication}}">
+                                <a href="{{url('/publications/'.$publication)}}"><img src="{{asset('data/theepam/'.$publication.'/cover.jpg')}}" alt="{{$publication}}"></a>
                                 </div>
                                 <div class="team-desc">
-                                    <div class="team-title"><h4>@lang('Theepam') {{date_format(date_create($publication), 'Y-M-d')}}</h4></div>
+                                    <div class="team-title" style="padding-top:5px"><h4>@lang('Theepam') {{date_format(date_create($publication), 'd-M-Y')}}</h4></div>
                                 </div>
                             </div>
                         </div>

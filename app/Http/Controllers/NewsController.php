@@ -32,6 +32,14 @@ class NewsController extends Controller
             array(
                 'name' => 'Manithan',
                 'news' => simplexml_load_file($news_path.'manithan.xml')->channel->item
+            ),
+            array(
+                'name' => 'Pathivu',
+                'news' => simplexml_load_file($news_path.'pathivu.xml')->channel->item
+            ),
+            array(
+                'name' => 'A-SriLanka',
+                'news' => simplexml_load_file($news_path.'asrilanka.xml')->channel->item
             )
         );
         return view('news.index', ['news_active'=>'current', 'latest_news_channels'=>$latest_news_channels]);

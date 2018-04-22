@@ -49,6 +49,14 @@ class Kernel extends ConsoleKernel
                 array(
                     'name' => 'manithan',
                     'url' => 'http://www.manithan.com/rss.xml'
+                ),
+                array(
+                    'name' => 'pathivu',
+                    'url' => 'http://www.pathivu.com/rss.xml'
+                ),
+                array(
+                    'name' => 'asrilanka',
+                    'url' => 'http://www.asrilanka.com/rss.xml'
                 )
             );
             foreach ($news_channels as $channel) {

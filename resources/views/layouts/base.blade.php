@@ -20,7 +20,7 @@
 
     <title>@yield('title')</title>
 </head>
-<body class="stretched" data-speed-out="00" data-animation-in="fadeInDownBig">
+<body class="stretched" data-speed-out="00"  data-speed-in="00">
     <!-- The Main Wrapper
 	============================================= -->
     <div id="wrapper" class="clearfix">
@@ -76,6 +76,7 @@
     <!-- Custom Scripts
     ============================================= -->
     <script src="{{asset('js/custom.js')}}"></script>
+    @yield('javascript')
 </body>
 
 </html>

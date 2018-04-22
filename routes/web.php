@@ -24,5 +24,7 @@ Route::get('/changeLocale', function () {
 
 Route::get('/', 'HomeController@index');
 Route::get('/publications', 'PublicationsController@index');
-Route::get('/publications{date}', 'PublicationsController@show');
+Route::get('/publications/{date}', 'PublicationsController@show');
+Route::get('/events', 'EventsController@index');
+Route::get('/events/{date}', 'EventsController@show');
 Route::get('/news', 'NewsController@index');

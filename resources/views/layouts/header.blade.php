@@ -1,11 +1,3 @@
-{{-- <div id="top-bar">
-    <div class="container clearfix">
-        <div class="nobottommargin">
-            <h3 style="text-align:center;"> @lang('Nainativu Canadian Development Society') </h3>
-        </div>
-    </div>
-</div> --}}
-
 <header id="header" class="static-sticky">
 
     <div id="header-wrap">
@@ -31,7 +23,7 @@
                 <li class="{{$publications_active or ''}}"><a href="{{url('/publications')}}"><div><i class="icon-book3"></i>@lang('Publications')</div></a></li>
                 <li class="{{$news_active or ''}}"><a href="{{url('/news')}}"><div><i class="icon-news"></i>@lang('News')</div></a></li>
                 <li><a href="#"><div><i class="icon-line-camera"></i>@lang('Gallery')</div></a></li>
-                <li><a href="#"><div><i class="icon-calendar3"></i>@lang('Events')</div></a></li>
+                <li class="{{$events_active or ''}}"><a href="{{url('/events')}}"><div><i class="icon-calendar3"></i>@lang('Events')</div></a></li>
                 <li><a href="#"><div><i class="icon-line-mail"></i>@lang('Contact Us')</div></a></li>
                 @if (App::isLocale('en'))
                     <li><a href="{{url('/changeLocale')}}"><div><i class="icon-info-sign"></i>தமிழ்</div></a></li>

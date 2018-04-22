@@ -11,10 +11,15 @@ class PublicationsController extends Controller
     public function index(){
         $path = public_path().DIRECTORY_SEPARATOR.'data'.DIRECTORY_SEPARATOR.'theepam';
         $publications = array_map('basename', File::directories($path));
-        return view('publications.index', ['publications_active'=>'current', 'publications'=>array_reverse($publications)]);
+        rsort($publications);
+        return view('publications.index', ['publications_active'=>'current', 'publications'=>$publications]);
     }
 
     public function show($date){
-        return view('publications.show', ['publications_active'=>'current', 'title'=>'Publication '.$date]);
+        return view('publications.show', [
+            'publications_active'=>'current', 
+            'title'=>'Theepam '.date_format(date_create($date), 'd-M-Y'),
+            'date'=>$date
+        ]);
     }
 }
