@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="style.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+					<channel>
+						<title>Cineulagam RSS Feeds</title>
+						<description>Cineulagam - Latest Tamil News</description>
+						<link>http://www.cineulagam.com</link>
+
+						<image>
+							<url>http://assets.zoftcdn.com/branding/cineulagam/icons/600x600.png</url>
+							<title>Cineulagam RSS Feeds</title>
+							<link>http://www.cineulagam.com</link>
+						</image>
+						<generator>RSS for Node</generator>
+						<lastBuildDate>Sun, 22 Apr 2018 17:10:22 +0000</lastBuildDate>
+						<copyright>Copyright: (C) Cineulagam.com, All rights reserved.</copyright>
+						<language>ta</language>
+						<ttl>10</ttl>						
+					<item>
+				<title>சிவகார்த்திகேயனை தொடர்ந்து அனிருத்தின் புது ஸ்பெஷல்! ரசிகர்கள் கொண்டாட்டம்</title> <description>தமிழ் சினிமாவில் இளம் வயதில் பல சாதனைகளை நிகழ்த்தியவர்.</description>  <link>http://www.cineulagam.com/celebs/06/148248</link>
+				            <guid isPermaLink="false">http://www.cineulagam.com/celebs/06/148248</guid> 
+						    <pubDate>Mon, 27 Nov 2017 11:30:00 +0000</pubDate>
+						    <category>பிரபலம்</category>
+						    <media:thumbnail width="900" height="500" url="http://dimg.zoftcdn.com/s1/photos/cinema/thumbs/tamil/couples/sivakarthikeyan_anirudh003/img/625.500.560.350.160.300.053.800.900.160.90.jpg"/> 
+					</item> <item>
+				<title>சூர்யாவின் தானா சேர்ந்த கூட்டத்தின் வசூலுக்கு வரும் செக்</title> <description>சூர்யா நடிப்பில் விக்னேஷ் சிவன் இயக்கத்தில் மிகவும் எதிர்ப்பார்ப்பிற்கு உரிய படம் தானா சேர்ந்த.</description>  <link>http://www.cineulagam.com/films/06/148247</link>
+				            <guid isPermaLink="false">http://www.cineulagam.com/films/06/148247</guid> 
+						    <pubDate>Mon, 27 Nov 2017 11:00:00 +0000</pubDate>
+						    <category>திரைப்படம்</category>
+						    <media:thumbnail width="900" height="500" url="http://dimg.zoftcdn.com/s1/photos/cinema/thumbs/tamil/films/t/thaana_serntha_kootam001/img/625.500.560.350.160.300.053.800.900.160.90.jpg"/> 
+					</item> <item>
+				<title>சூப்பர் மேன் நடிகரின் மீசையை ஷேவ் செய்ய இத்தனை கோடியா? ஹாலிவுட் அட்ராசிட்டி</title> <description>ஹாலிவுட் படங்கள் எந்த லெவலில் எடுக்கப்படும் என்பது ஆங்கில பட பிரியர்களுக்கு நன்கு தெரியும். </description>  <link>http://www.cineulagam.com/celebs/06/148244</link>
+				            <guid isPermaLink="false">http://www.cineulagam.com/celebs/06/148244</guid> 
+						    <pubDate>Mon, 27 Nov 2017 10:30:00 +0000</pubDate>
+						    <category>பிரபலம்</category>
+						    <media:thumbnail width="900" height="500" url="http://dimg.zoftcdn.com/s1/photos/cinema/thumbs/english/actors/henry_cavil001/img/625.500.560.350.160.300.053.800.900.160.90.jpg"/> 
+					</item> <item>
+				<title>பாகுபலி 2 அளவிற்கு சூடுபிடிக்கும் பவன் கல்யாண் புதிய படத்தின் வியாபாரம்- கர்நாடகாவில் இத்தனை கோடிக்கு விலைபோனதா?</title> <description>தமிழ் சினிமாவில் ரஜினி, விஜய், அஜித்துக்கு எப்படி ஒரு மாஸ் இருக்கிறது என்பது நமக்கு.</description>  <link>http://www.cineulagam.com/films/06/148243</link>
+				            <guid isPermaLink="false">http://www.cineulagam.com/films/06/148243</guid> 
+						    <pubDate>Mon, 27 Nov 2017 10:00:00 +0000</pubDate>
+						    <category>திரைப்படம்</category>
+						    <media:thumbnail width="900" height="500" url="http://dimg.zoftcdn.com/s1/photos/cinema/thumbs/tamil/others/2017/11/pawan_kalyan001/img/625.500.560.350.160.300.053.800.900.160.90.jpg"/> 
+					</item> <item>
+				<title>அன்புச் செழியனுக்கு ஆதரவு தரும் பிரபலங்கள் குறித்து நடிகை பூர்ணா கூறிய கருத்து</title> <description>தமிழ் சினிமா ஒவ்வொரு மாதமும் ஏதாவது ஒரு பிரச்சனைகளால் சிக்கிக் கொண்டு வருகிறது. </description>  <link>http://www.cineulagam.com/actresses/06/148241</link>
+				            <guid isPermaLink="false">http://www.cineulagam.com/actresses/06/148241</guid> 
+						    <pubDate>Mon, 27 Nov 2017 09:30:00 +0000</pubDate>
+						    <category>நடிகைகள்</category>
+						    <media:thumbnail width="900" height="500" url="http://dimg.zoftcdn.com/s1/photos/cinema/thumbs/tamil/others/2017/11/anbu_chezian001/img/625.500.560.350.160.300.053.800.900.160.90.jpg"/> 
+					</item> <item>
+				<title>போலீஸ் தப்பு பண்ணா எங்கள கேட்க கூடாது- தீரன் வெற்றி விழாவில் கலக்கல் பதில்</title> <description>போலீஸ் தப்பு பண்ணா எங்கள கேட்க கூடாது- தீரன் வெற்றி விழாவில் கலக்கல்.</description>  <link>http://www.cineulagam.com/cinema/10/122131</link>
+				            <guid isPermaLink="false">http://www.cineulagam.com/cinema/10/122131</guid> 
+						    <pubDate>Mon, 27 Nov 2017 09:06:00 +0000</pubDate>
+						    <category>சினிமா</category>
+						    <media:thumbnail width="900" height="500" url="http://dimg.zoftcdn.com/s1/photos/bucket/videos/2017/11/karthitheran001/img/625.500.560.350.160.300.053.800.900.160.90.jpg"/> 
+					</item> <item>
+				<title>கமல் அடித்தது உண்மையா- வெளிவந்த நிஜத்தகவல்</title> <description>கமல்ஹாசன் வீடியோ ஒன்று சமூக வலைத்தளங்களில் கடும் வைரலாகி.</description>  <link>http://www.cineulagam.com/actors/06/148236</link>
+				            <guid isPermaLink="false">http://www.cineulagam.com/actors/06/148236</guid> 
+						    <pubDate>Mon, 27 Nov 2017 09:00:00 +0000</pubDate>
+						    <category>நடிகர்கள்</category>
+						    <media:thumbnail width="900" height="500" url="http://dimg.zoftcdn.com/s1/photos/cinema/thumbs/tamil/actors/kamal_haasan/kamalattack001/img/625.500.560.350.160.300.053.800.900.160.90.jpg"/> 
+					</item> <item>
+				<title>விஜய்க்கு தான் நல்ல மாஸ் இருக்கிறது! பொறுத்திருப்போம். முக்கிய இயக்குனர்</title> <description>தமிழ் நாட்டில் அடுத்து முதல்வர் அரியாசணத்தை பிடிக்கப்போவது யார் என பெரும் எதிர்பார்ப்பு.</description>  <link>http://www.cineulagam.com/celebs/06/148239</link>
+				            <guid isPermaLink="false">http://www.cineulagam.com/celebs/06/148239</guid> 
+						    <pubDate>Mon, 27 Nov 2017 08:30:00 +0000</pubDate>
+						    <category>பிரபலம்</category>
+						    <media:thumbnail width="900" height="500" url="http://dimg.zoftcdn.com/s1/photos/cinema/thumbs/tamil/actors/vijay/vijay_multiple001/img/625.500.560.350.160.300.053.800.900.160.90.jpg"/> 
+					</item> <item>
+				<title>சமூக வலைத்தளத்தை கலக்கும் விசுவாசம் படத்தின் Fan Made போஸ்ட்டர்ஸ்</title> <description>Visawam Fan Made Posters </description>  <link>http://www.cineulagam.com/actors/08/111140</link>
+				            <guid isPermaLink="false">http://www.cineulagam.com/actors/08/111140</guid> 
+						    <pubDate>Mon, 27 Nov 2017 08:00:00 +0000</pubDate>
+						    <category>நடிகர்கள்</category>
+						    <media:thumbnail width="900" height="500" url="http://dimg.zoftcdn.com/s1/photos/albums/thumbs/2017/11/viswamthump001/img/625.500.560.350.160.300.053.800.900.160.90.jpg"/> 
+					</item> <item>
+				<title>பல வருடங்களுக்கு பிறகு பேட்டிக்கொடுத்த சிம்ரன், என்ன சொல்கிறார் பாருங்கள்</title> <description>பல வருடங்களுக்கு பிறகு பேட்டிக்கொடுத்த சிம்ரன், என்ன சொல்கிறார்.</description>  <link>http://www.cineulagam.com/celebs/10/122130</link>
+				            <guid isPermaLink="false">http://www.cineulagam.com/celebs/10/122130</guid> 
+						    <pubDate>Mon, 27 Nov 2017 07:37:00 +0000</pubDate>
+						    <category>பிரபலம்</category>
+						    <media:thumbnail width="900" height="500" url="http://dimg.zoftcdn.com/s1/photos/bucket/videos/2017/11/simran001/img/625.500.560.350.160.300.053.800.900.160.90.jpg"/> 
+					</item> </channel>
+				</rss>

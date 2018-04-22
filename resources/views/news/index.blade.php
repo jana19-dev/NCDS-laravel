@@ -40,7 +40,7 @@
             <div class="modal1 mfp-hide" id="newsModal">
                 <div class="block divcenter" style="background-color: #FFF">
                     <div id="newsContent"></div>
-                    <div class="section center nomargin" style="padding: 30px;">
+                    <div class="section center nomargin" style="padding: 10px;">
                         <a href="#" class="button" onClick="$.magnificPopup.close();return false;">Close</a>
                     </div>
                 </div>

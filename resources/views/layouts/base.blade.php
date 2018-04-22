@@ -20,7 +20,7 @@
 
     <title>@yield('title')</title>
 </head>
-<body class="stretched {{ $page_transition or 'no-transition' }}" data-speed-out="00" data-animation-in="fadeInDownBig">
+<body class="stretched" data-speed-out="00" data-animation-in="fadeInDownBig">
     <!-- The Main Wrapper
 	============================================= -->
     <div id="wrapper" class="clearfix">
@@ -28,6 +28,8 @@
 		============================================= -->
         @include('layouts.header')
         @yield('slider')
+        @yield('page_title')
+        @yield('sub_menu')
 
         <!-- Site Content
 		============================================= -->

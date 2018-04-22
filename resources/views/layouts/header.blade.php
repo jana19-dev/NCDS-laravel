@@ -6,7 +6,7 @@
     </div>
 </div> --}}
 
-<header id="header">
+<header id="header" class="static-sticky">
 
     <div id="header-wrap">
 
@@ -28,7 +28,7 @@
 
             <ul>
                 <li><a href="#"><div><i class="icon-user"></i>@lang('About Us')</div></a></li>
-                <li><a href="#"><div><i class="icon-book3"></i>@lang('Publications')</div></a></li>
+                <li class="{{$publications_active or ''}}"><a href="{{url('/publications')}}"><div><i class="icon-book3"></i>@lang('Publications')</div></a></li>
                 <li class="{{$news_active or ''}}"><a href="{{url('/news')}}"><div><i class="icon-news"></i>@lang('News')</div></a></li>
                 <li><a href="#"><div><i class="icon-line-camera"></i>@lang('Gallery')</div></a></li>
                 <li><a href="#"><div><i class="icon-calendar3"></i>@lang('Events')</div></a></li>

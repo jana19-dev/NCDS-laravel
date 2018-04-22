@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="style.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+					<channel>
+						<title>Manithan RSS Feeds</title>
+						<description>Manithan - Latest Tamil News</description>
+						<link>http://www.manithan.com</link>
+
+						<image>
+							<url>http://assets.zoftcdn.com/branding/manithan/icons/300x300.png</url>
+							<title>Manithan RSS Feeds</title>
+							<link>http://www.manithan.com</link>
+						</image>
+						<generator>RSS for Node</generator>
+						<lastBuildDate>Sun, 22 Apr 2018 17:10:23 +0000</lastBuildDate>
+						<copyright>Copyright: (C) Manithan.com, All rights reserved.</copyright>
+						<language>ta</language>
+						<ttl>10</ttl>						
+					<item>
+				<title>வாரத்தில் எத்தனை நாட்கள் அசைவ உணவுகள் சாப்பிடலாம்? தினமும் முட்டை ஆபத்தா!</title> <description>ஒரு வாரத்தில் மூன்று நாட்கள் மீன் சாப்பிடலாம். பொரித்துச் சாப்பிடக் கூடாது. மீனைக் குழம்பாக வைத்துதான்.</description>  <link>http://www.manithan.com/food/04/169914</link>
+				            <guid isPermaLink="false">http://www.manithan.com/food/04/169914</guid> 
+						    <pubDate>Sun, 22 Apr 2018 15:55:00 +0000</pubDate>
+						    <category>உணவு</category>
+						    <media:thumbnail width="900" height="500" url="http://dimg.zoftcdn.com/s1/photos/news/thumbs/2018/03-1/food_day001/img/625.500.560.350.160.300.053.800.900.160.90.jpg"/> 
+					</item> <item>
+				<title>அதிக உடல் உழைப்பால் உயிரை விட்ட மொடல்! ஐயோ பாவம்..</title> <description>சீனாவில் அதிக உடல் உழைப்பு காரணமாக மரணமடைந்த மொடல் சிறுமியை திருமண உடையில் அடக்கம் செய்துள்ளதாக தகவல்.</description>  <link>http://www.manithan.com/lifestyle/04/169911</link>
+				            <guid isPermaLink="false">http://www.manithan.com/lifestyle/04/169911</guid> 
+						    <pubDate>Sun, 22 Apr 2018 14:55:00 +0000</pubDate>
+						    <category>வாழ்க்கை முறை</category>
+						    <media:thumbnail width="900" height="500" url="http://dimg.zoftcdn.com/s1/photos/news/thumbs/2017/11-4/teenage_model_001/img/625.500.560.350.160.300.053.800.900.160.90.jpg"/> 
+					</item> <item>
+				<title>ஞாயிற்றுக்கிழமையில் இதை மட்டும் செய்ங்க.. செல்வம் கொட்டோ கொட்டுனு கொட்டுமாம்!</title> <description>எதிரி நம் முன்னே மாட்டிக்கொண்டால், உண்மையிலேயே மனதுக்குள் நாம் எவ்வளவு சந்தோஷப்படுவோம். அப்படி உங்களுடைய எல்லா எதிரிகளையும் வீழ்த்த வேண்டுமா? அப்படியென்றால் ஞாயிற்றுக்கிழமையில் விரதமிருந்து சூரிய பகவானை.</description>  <link>http://www.manithan.com/spiritual/04/169908</link>
+				            <guid isPermaLink="false">http://www.manithan.com/spiritual/04/169908</guid> 
+						    <pubDate>Sun, 22 Apr 2018 13:39:00 +0000</pubDate>
+						    <category>ஆன்மீகம்</category>
+						    <media:thumbnail width="900" height="500" url="http://dimg.zoftcdn.com/s1/photos/news/thumbs/2018/04/gold_coin001/img/625.500.560.350.160.300.053.800.900.160.90.jpg"/> 
+					</item> <item>
+				<title>அரங்கத்தில் நிகழ்ந்த அதிர்ச்சி சம்பவம்... வாயடைத்துப் போன நிர்மலா பெரியசாமி</title> <description>மேஜிக் என்பது சிறியவர்கள் முதல் பெரியவர்கள் வரை விரும்பி அவதானிக்கும் நிகழ்வாகும். இருப்பதை இல்லாமல் ஆக்குவதும், இல்லாத ஒன்றினை புதிதாக கொண்டு வரும் வித்தை இதில் அதிகம்.</description>  <link>http://www.manithan.com/entertainment/04/169907</link>
+				            <guid isPermaLink="false">http://www.manithan.com/entertainment/04/169907</guid> 
+						    <pubDate>Sun, 22 Apr 2018 12:49:00 +0000</pubDate>
+						    <category>பொழுதுபோக்கு</category>
+						    <media:thumbnail width="900" height="500" url="http://dimg.zoftcdn.com/s1/photos/news/thumbs/2018/04/sunmai_magic001/img/625.500.560.350.160.300.053.800.900.160.90.jpg"/> 
+					</item> <item>
+				<title>வெளியேறிய பின்னர் ஈழத்து பெண்ணின் குற்றச்சாட்டு? உண்மை முகத்தை கிழித்த நடிகை! ஆர்யா அம்மா அதிரடி</title> <description>அவரச கால உலகில் ஒவ்வொருவரினதும் நொடிப்பொழுதை பயன் உள்ளதாக மாற்றுவதற்கும், உணர்வு பூர்வமாக அறிந்து கொள்ளவும் எல்லோருக்கும் நேரம் சரியாக அமையாது.</description>  <link>http://www.manithan.com/special/04/169846</link>
+				            <guid isPermaLink="false">http://www.manithan.com/special/04/169846</guid> 
+						    <pubDate>Sun, 22 Apr 2018 12:06:00 +0000</pubDate>
+						    <category>சிறப்பு</category>
+						    <media:thumbnail width="900" height="500" url="http://dimg.zoftcdn.com/s1/photos/news/thumbs/2018/07-4/ariya_prasana001/img/625.500.560.350.160.300.053.800.900.160.90.jpg"/> 
+					</item> <item>
+				<title>நவரத்தின கற்களில் இப்படியொரு ரகசியமா?... இதுவரை தெரிந்திருக்கவே மாட்டீங்க!</title> <description>நவரத்தினங்கள் எனப்படுபவை ஒன்பது வகையான இரத்தினக் கற்களாகும். இவை ஆபரணத் தயாரிப்பில் பயன்படுகின்றன. இந்து, சமணம், பெளத்தம், சீக்கியம் மற்றும் பிற மதங்களில் இவை முக்கியத்துவம்.</description>  <link>http://www.manithan.com/medical/04/169902</link>
+				            <guid isPermaLink="false">http://www.manithan.com/medical/04/169902</guid> 
+						    <pubDate>Sun, 22 Apr 2018 11:30:00 +0000</pubDate>
+						    <category>மருத்துவம்</category>
+						    <media:thumbnail width="900" height="500" url="http://dimg.zoftcdn.com/s1/photos/news/thumbs/2018/04/navarathnam001/img/625.500.560.350.160.300.053.800.900.160.90.jpg"/> 
+					</item> <item>
+				<title>இந்த ஒரு பொருள் சர்க்கரை நோயை அடியோடு விரட்டிடுமாம்!</title> <description>இது ஒரு நோயல்ல... குறைபாடு. கணையத்தின் பீட்டா செல்களால் இன்சுலினை சுரக்க முடியாமல் போகும்போது ரத்தத்தில் சேரும் குளூக்கோஸின் அளவு.</description>  <link>http://www.manithan.com/disease/04/169899</link>
+				            <guid isPermaLink="false">http://www.manithan.com/disease/04/169899</guid> 
+						    <pubDate>Sun, 22 Apr 2018 10:48:00 +0000</pubDate>
+						    <category>நோய்</category>
+						    <media:thumbnail width="900" height="500" url="http://dimg.zoftcdn.com/s1/photos/news/thumbs/2018/04/suger/img/625.500.560.350.160.300.053.800.900.160.90.jpg"/> 
+					</item> <item>
+				<title>உலக புகழ்பெற்ற நம்ம இட்லி சாம்பார் பிறந்த வரலாறு தெரியுமா மக்களே!</title> <description>உலக சுகாதார அமைப்பு, உயர்ந்த ஊட்டச்சத்து கொண்ட உணவுப்பண்டங்களின் பட்டியலில் இட்லிக்கு, முக்கிய இடம்.</description>  <link>http://www.manithan.com/food/04/169900</link>
+				            <guid isPermaLink="false">http://www.manithan.com/food/04/169900</guid> 
+						    <pubDate>Sun, 22 Apr 2018 10:30:00 +0000</pubDate>
+						    <category>உணவு</category>
+						    <media:thumbnail width="900" height="500" url="http://dimg.zoftcdn.com/s1/photos/news/thumbs/2019/02-1/idle001/img/625.500.560.350.160.300.053.800.900.160.90.jpg"/> 
+					</item> <item>
+				<title>ஜவுளி முதல் ஜியோ வரை - Corporate ஜாம்பவான் அம்பானியின் சொத்து எவ்வளவு தெரியுமா?</title> <description>தொழில் முனைவோருக்கும் மிக பெரிய உந்து சக்தியாகவும், ரோல் மாடலாகவும் இருப்பவர் முகேஷ் அம்பானி.இவர் தொட்டதெல்லாம் பொன்னாக விளங்குகின்றது என தொழிலதிபர்கள் பலர் சொல்லி.</description>  <link>http://www.manithan.com/india/04/169897</link>
+				            <guid isPermaLink="false">http://www.manithan.com/india/04/169897</guid> 
+						    <pubDate>Sun, 22 Apr 2018 08:51:00 +0000</pubDate>
+						    <category>இந்தியா</category>
+						    <media:thumbnail width="900" height="500" url="http://dimg.zoftcdn.com/s1/photos/news/thumbs/2025/03-4/mukeshambani001/img/625.500.560.350.160.300.053.800.900.160.90.jpg"/> 
+					</item> <item>
+				<title>அதிரடி சோதனையில் சிக்கிய நிர்மலா தேவியின் ரகசிய டைரி... அம்பலமாகிவரும் பல உண்மைகள்</title> <description>விருதுநகர் ஆத்திப்பட்டியில் உள்ள பேராசிரியை நிர்மலா தேவியின் வீட்டில் சி.பி.சி.ஐ.டி. பொலிசார் நடத்திய சோதனையில் ரகசிய டைரி ஒன்று.</description>  <link>http://www.manithan.com/india/04/169888</link>
+				            <guid isPermaLink="false">http://www.manithan.com/india/04/169888</guid> 
+						    <pubDate>Sun, 22 Apr 2018 07:30:00 +0000</pubDate>
+						    <category>இந்தியா</category>
+						    <media:thumbnail width="900" height="500" url="http://dimg.zoftcdn.com/s1/photos/news/thumbs/2018/04/nirmala004/img/625.500.560.350.160.300.053.800.900.160.90.jpg"/> 
+					</item> </channel>
+				</rss>

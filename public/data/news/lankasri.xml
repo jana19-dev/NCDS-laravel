@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="style.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+					<channel>
+						<title>Lankasrinews RSS Feeds</title>
+						<description>Lankasrinews - Latest Tamil News</description>
+						<link>http://news.lankasri.com</link>
+
+						<image>
+							<url>http://assets.zoftcdn.com/branding/lankasrinews/icons/600x600.png</url>
+							<title>Lankasrinews RSS Feeds</title>
+							<link>http://news.lankasri.com</link>
+						</image>
+						<generator>RSS for Node</generator>
+						<lastBuildDate>Sun, 22 Apr 2018 17:08:32 +0000</lastBuildDate>
+						<copyright>Copyright: (C) Lankasrinews.com, All rights reserved.</copyright>
+						<language>ta</language>
+						<ttl>10</ttl>						
+					<item>
+				<title>அமெரிக்காவில் கொலைவெறி தாக்குதல்: நிர்வாண மனிதன் சுட்டதில் 3 பேர் பலி</title> <description>அமெரிக்காவில் உள்ள உணவகம் ஒன்றில் நுழைந்த மர்ம நபர் அங்கு சாப்பிட்டு கொண்டு இருந்தவர்கள் மேல் சரமாரியாக துப்பாக்கியால் சுட்டதில் 3 பேர்.</description>  <link>http://news.lankasri.com/usa/03/177078</link>
+				            <guid isPermaLink="false">http://news.lankasri.com/usa/03/177078</guid> 
+						    <pubDate>Sun, 22 Apr 2018 16:48:00 +0000</pubDate>
+						    <category>அமெரிக்கா</category>
+						    <media:thumbnail width="900" height="500" url="http://dimg.zoftcdn.com/s1/photos/news/thumbs/2018/04/house78/img/625.500.560.350.160.300.053.800.900.160.90.jpg"/> 
+					</item> <item>
+				<title>சிரியாவுக்கு ரசாயன ஆயுதங்களை வழங்குவது இந்த நாடு தான்: வெளியான தகவல்</title> <description>சிரியாவுக்கு அதிக அளவு ரசாயன ஆயுதங்களை வட கொரியா வழங்கி வருவதால் தான் ஆசாத் அரசு ஆட்சியில் நீடித்திருப்பதாக ஆய்வாளர்கள்.</description>  <link>http://news.lankasri.com/othercountries/03/177090</link>
+				            <guid isPermaLink="false">http://news.lankasri.com/othercountries/03/177090</guid> 
+						    <pubDate>Sun, 22 Apr 2018 16:45:00 +0000</pubDate>
+						    <category>ஏனைய நாடுகள்</category>
+						    <media:thumbnail width="900" height="500" url="http://dimg.zoftcdn.com/s1/photos/news/thumbs/2018/04/trade_syria001/img/625.500.560.350.160.300.053.800.900.160.90.jpg"/> 
+					</item> <item>
+				<title>பிறப்புறுப்பை நீக்கிவிட்டு வேற்றுக்கிரகவாசிகளை போல் வாழும் விசித்திர இளைஞன்</title> <description>அமெரிக்காவை சேர்ந்த இளைஞர் ஒருவர் பல அபாய நடைமுறைகளை பின்பற்றி வேற்றுக்கிரகவாசிகளை போல் தன்னை மாற்றிகொண்டு வாழ்ந்து.</description>  <link>http://news.lankasri.com/usa/03/177089</link>
+				            <guid isPermaLink="false">http://news.lankasri.com/usa/03/177089</guid> 
+						    <pubDate>Sun, 22 Apr 2018 16:21:00 +0000</pubDate>
+						    <category>அமெரிக்கா</category>
+						    <media:thumbnail width="900" height="500" url="http://dimg.zoftcdn.com/s1/photos/news/thumbs/2018/10-4/alien89/img/625.500.560.350.160.300.053.800.900.160.90.jpg"/> 
+					</item> <item>
+				<title>சிறையில் நிர்மலா தேவிக்கு திடீர் உடல்நலக்குறைவு</title> <description>மாணவிகளை தவறாக பாதைக்கு அழைப்பு விடுத்த அருப்புக்கோட்டை சிபிசிஐடி அலுவலகத்தில் பேராசிரியை நிர்மலா தேவிக்கு திடீர் உடல்நலக்குறைவு.</description>  <link>http://news.lankasri.com/india/03/177084</link>
+				            <guid isPermaLink="false">http://news.lankasri.com/india/03/177084</guid> 
+						    <pubDate>Sun, 22 Apr 2018 14:58:00 +0000</pubDate>
+						    <category>இந்தியா</category>
+						    <media:thumbnail width="900" height="500" url="http://dimg.zoftcdn.com/s1/photos/news/thumbs/india/others/2018/04/nir_fever001/img/625.500.560.350.160.300.053.800.900.160.90.jpg"/> 
+					</item> <item>
+				<title>என்னையே ஏன் எப்போ பார்த்தாலும் திட்டுறீங்க ? தலைமை ஆசிரியை சுட்டுக்கொன்ற மாணவன் !</title> <description>ஹரியனா மாநிலத்தில் பள்ளி தலைமை ஆசிரியை திட்டியதால் ஆத்திரத்தில் கொலை செய்த மாணவனை பொலிஸார் கைது.</description>  <link>http://news.lankasri.com/india/03/177081</link>
+				            <guid isPermaLink="false">http://news.lankasri.com/india/03/177081</guid> 
+						    <pubDate>Sun, 22 Apr 2018 14:55:00 +0000</pubDate>
+						    <category>இந்தியா</category>
+						    <media:thumbnail width="900" height="500" url="http://dimg.zoftcdn.com/s1/photos/news/thumbs/2018/05-4/student9/img/625.500.560.350.160.300.053.800.900.160.90.jpg"/> 
+					</item> <item>
+				<title>சென்னை சூப்பர் கிங்ஸ் அணி த்ரில் வெற்றி: ஹைதராபாத் போராட்டம் வீண்</title> <description>சன்ரைசர்ஸ் ஐதராபாத் அணிக்கெதிரான பரபரப்பான ஆட்டத்தில் சென்னை சூப்பர் கிங்ஸ் அணி 4 ரன்கள் வித்தியாசத்தில் வெற்றி.</description>  <link>http://news.lankasri.com/cricket/03/177082</link>
+				            <guid isPermaLink="false">http://news.lankasri.com/cricket/03/177082</guid> 
+						    <pubDate>Sun, 22 Apr 2018 14:37:00 +0000</pubDate>
+						    <category>கிரிக்கெட்</category>
+						    <media:thumbnail width="900" height="500" url="http://dimg.zoftcdn.com/s1/photos/news/thumbs/sports/others/2018/04/chennai001/img/625.500.560.350.160.300.053.800.900.160.90.jpg"/> 
+					</item> <item>
+				<title>முஸ்லீம் மதத்தை சேர்ந்தவர் கார் ஓட்டியதால் ரத்து செய்துவிட்டேன்: சமூகவலைதளத்தில் சர்ச்சை</title> <description>ஓட்டுநர் முஸ்லீம் மதத்தை சேர்ந்தவர் என்பதால் அவரது காரில் நான் பயணிக்கவில்லை என விஸ்வ இந்து பரிஷத் அமைப்பை சேர்ந்தவர் டுவிட் செய்துள்ளது சர்ச்சையை.</description>  <link>http://news.lankasri.com/india/03/177080</link>
+				            <guid isPermaLink="false">http://news.lankasri.com/india/03/177080</guid> 
+						    <pubDate>Sun, 22 Apr 2018 14:15:00 +0000</pubDate>
+						    <category>இந்தியா</category>
+						    <media:thumbnail width="900" height="500" url="http://dimg.zoftcdn.com/s1/photos/news/thumbs/india/others/2018/04/iskam_cancel001/img/625.500.560.350.160.300.053.800.900.160.90.jpg"/> 
+					</item> <item>
+				<title>அமெரிக்காவுடனான தங்கள் உறவு வளர்ந்து வருவதாக சுவிஸ் நிதி அமைச்சர் பேச்சு</title> <description>அமெரிக்காவுடனான தங்கள் உறவு தெளிவாக முன்னேறி இருப்பதாக சுவிஸ்ஸின் நிதி அமைச்சர் Ueli Maurer.</description>  <link>http://news.lankasri.com/swiss/03/177068</link>
+				            <guid isPermaLink="false">http://news.lankasri.com/swiss/03/177068</guid> 
+						    <pubDate>Sun, 22 Apr 2018 13:18:00 +0000</pubDate>
+						    <category>சுவிற்சர்லாந்து</category>
+						    <media:thumbnail width="900" height="500" url="http://dimg.zoftcdn.com/s1/photos/news/thumbs/2018/04/swiss001/img/625.500.560.350.160.300.053.800.900.160.90.jpg"/> 
+					</item> <item>
+				<title>புதிய விதிகளை அறிவித்த பிரித்தானிய சுகாதாரத்துறை செயலாளர்: எதிர்ப்புகளும் ஆதரவும்</title> <description>பிரித்தானியாவின் சுகாதாரத்துறை செயலாளர் Jeremy Hunt, சமூக வலைதளங்களுக்கு புதிய கட்டுப்பாட்டு விதிகளை.</description>  <link>http://news.lankasri.com/uk/03/177077</link>
+				            <guid isPermaLink="false">http://news.lankasri.com/uk/03/177077</guid> 
+						    <pubDate>Sun, 22 Apr 2018 13:05:00 +0000</pubDate>
+						    <category>பிரித்தானியா</category>
+						    <media:thumbnail width="900" height="500" url="http://dimg.zoftcdn.com/s1/photos/news/thumbs/world/country/uk/h/hunt_rules001/img/625.500.560.350.160.300.053.800.900.160.90.jpg"/> 
+					</item> <item>
+				<title>ஆண்மையை அதிகரிக்கும் செவ்வாழைப் பழம்</title> <description>வாழைப்பழ வகைகளின் தலைவனாக போற்றப்படுவது செவ்வாழை.செவ்வாழையில் பீட்டா கரோட்டின், பொட்டாசியம் போன்றவை அதிக அளவில்.</description>  <link>http://news.lankasri.com/health/03/177076</link>
+				            <guid isPermaLink="false">http://news.lankasri.com/health/03/177076</guid> 
+						    <pubDate>Sun, 22 Apr 2018 12:53:00 +0000</pubDate>
+						    <category>ஆரோக்கியம்</category>
+						    <media:thumbnail width="900" height="500" url="http://dimg.zoftcdn.com/s1/photos/news/thumbs/2018/04/sev02/img/625.500.560.350.160.300.053.800.900.160.90.jpg"/> 
+					</item> </channel>
+				</rss>

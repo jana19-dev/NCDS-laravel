@@ -7,32 +7,33 @@ use Illuminate\Http\Request;
 class NewsController extends Controller
 {
     public function index(){
+        $news_path = public_path().DIRECTORY_SEPARATOR.'data'.DIRECTORY_SEPARATOR.'news'.DIRECTORY_SEPARATOR;
         $latest_news_channels = array(
             array(
                 'name' => 'JVP News',
-                'news' => simplexml_load_file('http://www.jvpnews.com/rss.xml')->channel->item
+                'news' => simplexml_load_file($news_path.'jvpnews.xml')->channel->item
             ),
             array(
                 'name' => 'Lankasri',
-                'news' => simplexml_load_file('http://news.lankasri.com/rss.xml')->channel->item
+                'news' => simplexml_load_file($news_path.'lankasri.xml')->channel->item
             ),
             array(
                 'name' => 'Canada Mirror',
-                'news' => simplexml_load_file('http://www.canadamirror.com/rss.xml')->channel->item
+                'news' => simplexml_load_file($news_path.'canadamirror.xml')->channel->item
             ),
             array(
                 'name' => 'Tamilwin',
-                'news' => simplexml_load_file('http://www.tamilwin.com/rss.xml')->channel->item
+                'news' => simplexml_load_file($news_path.'tamilwin.xml')->channel->item
             ),
             array(
                 'name' => 'Cine Ulagam',
-                'news' => simplexml_load_file('http://www.cineulagam.com/rss.xml')->channel->item
+                'news' => simplexml_load_file($news_path.'cineulagam.xml')->channel->item
             ),
             array(
                 'name' => 'Manithan',
-                'news' => simplexml_load_file('http://www.manithan.com/rss.xml')->channel->item
+                'news' => simplexml_load_file($news_path.'manithan.xml')->channel->item
             )
         );
-        return view('news.index', ['news_active'=> 'current', 'latest_news_channels'=>$latest_news_channels]);
+        return view('news.index', ['news_active'=>'current', 'latest_news_channels'=>$latest_news_channels]);
     }
 }

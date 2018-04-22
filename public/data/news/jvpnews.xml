@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="style.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+					<channel>
+						<title>Jvpnews RSS Feeds</title>
+						<description>Jvpnews - Latest Tamil News</description>
+						<link>http://www.jvpnews.com</link>
+
+						<image>
+							<url>http://assets.zoftcdn.com/branding/jvpnews/600x600.png</url>
+							<title>Jvpnews RSS Feeds</title>
+							<link>http://www.jvpnews.com</link>
+						</image>
+						<generator>RSS for Node</generator>
+						<lastBuildDate>Sun, 22 Apr 2018 17:08:31 +0000</lastBuildDate>
+						<copyright>Copyright: (C) Jvpnews.com, All rights reserved.</copyright>
+						<language>ta</language>
+						<ttl>10</ttl>						
+					<item>
+				<title>நீலகிரியில் பின்தங்கிய நிலையில் வாழ்ந்து வரும் இலங்கை தமிழர்கள்</title> <description>பல தசாப்த காலங்களுக்கு முன்னர் இலங்கையில் தமது சொந்த காணியில் இருந்து வெளியேறி தமிழகத்தின் நீலகிரியில் வசித்து வரும் மக்கள் மிகவும் பின்தங்கிய நிலையில், வாழ்ந்து.</description>  <link>http://www.jvpnews.com/srilanka/04/169913</link>
+				            <guid isPermaLink="false">http://www.jvpnews.com/srilanka/04/169913</guid> 
+						    <pubDate>Sun, 22 Apr 2018 15:27:00 +0000</pubDate>
+						    <category>இலங்கை</category>
+						    <media:thumbnail width="900" height="500" url="http://dimg.zoftcdn.com/s1/photos/news/thumbs/2018/04-2/idp/img/625.500.560.350.160.300.053.800.900.160.90.jpg"/> 
+					</item> <item>
+				<title>இலங்கையின் இரண்டு மாகாணங்களில் ஏற்பட்டுள்ள நிலை</title> <description>இலங்கையில் மேற்கு, வடமேற்கு, சப்ரகமுவ மற்றும் மத்திய மாகாணம் ஆகியவற்றிலும் தென் மாகாணத்தின் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் பிற்பகல்.</description>  <link>http://www.jvpnews.com/srilanka/04/169912</link>
+				            <guid isPermaLink="false">http://www.jvpnews.com/srilanka/04/169912</guid> 
+						    <pubDate>Sun, 22 Apr 2018 15:13:00 +0000</pubDate>
+						    <category>இலங்கை</category>
+						    <media:thumbnail width="900" height="500" url="http://dimg.zoftcdn.com/s1/photos/news/thumbs/2018/04-2/pane/img/625.500.560.350.160.300.053.800.900.160.90.jpg"/> 
+					</item> <item>
+				<title>யாழ் பல்கலைக்கழக வளாகத்தில் முள்ளிவாய்க்கால் நினைவாலயம்!  தடை நீங்கியது..</title> <description>யாழ்ப்பாணப் பல்கலைக்கழக வளாகத்தில், முள்ளிவாய்க்கால் நினைவாலயமொன்றை அமைப்பதற்கு ஏற்பட்திருந்த தடை, மாணவர்களுக்கும் நிர்வாகத்துக்கும் இடையே ஏற்பட்ட இணக்கப்பாட்டுடன்.</description>  <link>http://www.jvpnews.com/srilanka/04/169910</link>
+				            <guid isPermaLink="false">http://www.jvpnews.com/srilanka/04/169910</guid> 
+						    <pubDate>Sun, 22 Apr 2018 14:27:00 +0000</pubDate>
+						    <category>இலங்கை</category>
+						    <media:thumbnail width="900" height="500" url="http://dimg.zoftcdn.com/s1/photos/news/thumbs/2018/04-2/une/img/625.500.560.350.160.300.053.800.900.160.90.jpg"/> 
+					</item> <item>
+				<title>முதலமைச்சர் மற்றும் நீதிபதி இளஞ்செழியன் பாதுகாப்புக்கு சிங்களப் பொலிஸாரே </title> <description>யாழ்ப்பாணம் போதனா வைத்தியசாலையில் சிகிச்சை பெற்று வீடு திரும்பும் பலரின் குருதியில் கலந்திருப்பது சிங்கள.</description>  <link>http://www.jvpnews.com/srilanka/04/169909</link>
+				            <guid isPermaLink="false">http://www.jvpnews.com/srilanka/04/169909</guid> 
+						    <pubDate>Sun, 22 Apr 2018 14:22:00 +0000</pubDate>
+						    <category>இலங்கை</category>
+						    <media:thumbnail width="900" height="500" url="http://dimg.zoftcdn.com/s1/photos/news/thumbs/2018/04-2/vikki/img/625.500.560.350.160.300.053.800.900.160.90.jpg"/> 
+					</item> <item>
+				<title>சவூதியின் அறிவிப்பால் அதிர்ச்சியடைந்துள்ள இலங்கையர்கள் உட்பட வெளிநாட்டவர்கள்</title> <description>சவூதி அரேபியாவில் வெளிநாட்டுப் பணியாளர்கள் குறிப்பிட்ட 12 துறைகளில் தொழில் செய்யத் தடை விதிப்பதாக அந்நாட்டின் தொழிலாளர் மற்றும் சமூக மேம்பாட்டுத்துறை அமைச்சர் அலி அல் கபீஸ்.</description>  <link>http://www.jvpnews.com/srilanka/04/169906</link>
+				            <guid isPermaLink="false">http://www.jvpnews.com/srilanka/04/169906</guid> 
+						    <pubDate>Sun, 22 Apr 2018 12:36:00 +0000</pubDate>
+						    <category>இலங்கை</category>
+						    <media:thumbnail width="900" height="500" url="http://dimg.zoftcdn.com/s1/photos/news/thumbs/2018/04-2/saudi001/img/625.500.560.350.160.300.053.800.900.160.90.jpg"/> 
+					</item> <item>
+				<title>வெட்கத்தை அடியோடு இழந்த முஸ்லிம் பெண்கள்!! திகைக்கும் காட்சிகள்</title> <description>(18+ அனைவருக்கும் அல்ல !) வீட்டில் வறுமை , சொந்த வீடு இல்ல எதிர்காலத்த நினைத்து படைத்தவனிடம் தஹஜ்ஜூத்திற்கு எழுந்து கண்ணீர் வடிக்கும் ஏழை குமருகளும் இந்த துன்யாவில் தான் வாழ்கிறார்கள் அந்த நிலையிலுள்ள எந்த ஏழைகளும்.</description>  <link>http://www.jvpnews.com/srilanka/04/169892</link>
+				            <guid isPermaLink="false">http://www.jvpnews.com/srilanka/04/169892</guid> 
+						    <pubDate>Sun, 22 Apr 2018 12:25:00 +0000</pubDate>
+						    <category>இலங்கை</category>
+						    <media:thumbnail width="900" height="500" url="http://dimg.zoftcdn.com/s1/photos/news/thumbs/2018/04-2/muslem001/img/625.500.560.350.160.300.053.800.900.160.90.jpg"/> 
+					</item> <item>
+				<title>உலகின் பலம் வாய்ந்த பாஸ்போட்டுக்களில் இலங்கை பாஸ்போர்ட்டிற்கு எத்தனையாவது இடம் தெரியுமா??</title> <description>உலகின் பலம் வாய்ந்த கடவுச்சீட்டு பட்டியலில் 164 புள்ளிகளுடன் சிங்கப்பூர் முதலிடம் பெற்றுள்ளது .பாஸ்போர்ட் பவர் ரேங் இண்டெக்ஸ் 2018 பட்டியலில் 163 புள்ளிகளுடன் தென் கொரியா இரண்டாம் இடத்தையும் 162 புள்ளிகளுடன் ஜப்பான் மற்றும்.</description>  <link>http://www.jvpnews.com/srilanka/04/169905</link>
+				            <guid isPermaLink="false">http://www.jvpnews.com/srilanka/04/169905</guid> 
+						    <pubDate>Sun, 22 Apr 2018 12:16:00 +0000</pubDate>
+						    <category>இலங்கை</category>
+						    <media:thumbnail width="900" height="500" url="http://dimg.zoftcdn.com/s1/photos/news/thumbs/2018/04-2/sri-lanka-passport001/img/625.500.560.350.160.300.053.800.900.160.90.jpg"/> 
+					</item> <item>
+				<title>அரசாங்கத்தில் திடீர் குழப்பம்! பொன்சேகா வெளியேற்றம்??</title> <description>அரசாங்கத்திலிருந்து வெளியேறிச் சென்ற ஸ்ரீலங்கா சுதந்திரக் கட்சியைச் சேர்ந்த 16 பேருக்கும் மீண்டும் அமைச்சுப் பதவிகளை வழங்கினால், அரசாங்கத்திலிருந்து வெளியேறப்போவதாக அமைச்சர் சரத் பொன்சேகா.</description>  <link>http://www.jvpnews.com/srilanka/04/169904</link>
+				            <guid isPermaLink="false">http://www.jvpnews.com/srilanka/04/169904</guid> 
+						    <pubDate>Sun, 22 Apr 2018 12:05:00 +0000</pubDate>
+						    <category>இலங்கை</category>
+						    <media:thumbnail width="900" height="500" url="http://dimg.zoftcdn.com/s1/photos/news/thumbs/2018/04-2/fonseka/img/625.500.560.350.160.300.053.800.900.160.90.jpg"/> 
+					</item> <item>
+				<title>வடக்கில் யானைகள் படுகொலை; திடுக்கிடும் தகவல் வெளியானது</title> <description>இலங்கையின் வடக்கு மாகாணத்தில் மனித செயற்பாடுகள் காரணமாக கடந்த ஒரு வருடத்தில் மாத்திரம் 18 காட்டு யானைகள் உயிரிழந்துள்ளதாக தகவல்.</description>  <link>http://www.jvpnews.com/srilanka/04/169903</link>
+				            <guid isPermaLink="false">http://www.jvpnews.com/srilanka/04/169903</guid> 
+						    <pubDate>Sun, 22 Apr 2018 12:00:00 +0000</pubDate>
+						    <category>இலங்கை</category>
+						    <media:thumbnail width="900" height="500" url="http://dimg.zoftcdn.com/s1/photos/news/thumbs/2018/04-2/elefan001/img/625.500.560.350.160.300.053.800.900.160.90.jpg"/> 
+					</item> <item>
+				<title>நேற்று இரவு நடந்துள்ள கொடூர சம்பவம்</title> <description>நிட்டம்புவ – அத்தனகல்லை பகுதியில் இடம்பெற்ற இசை நிகழ்ச்சி ஒன்றில் அடையாளம் தெரியாதவர்களால் துப்பாக்கிப் பிரயோகம்.</description>  <link>http://www.jvpnews.com/srilanka/04/169880</link>
+				            <guid isPermaLink="false">http://www.jvpnews.com/srilanka/04/169880</guid> 
+						    <pubDate>Sun, 22 Apr 2018 10:49:00 +0000</pubDate>
+						    <category>இலங்கை</category>
+						    <media:thumbnail width="900" height="500" url="http://dimg.zoftcdn.com/s1/photos/news/thumbs/2018/04-2/colombo009/img/625.500.560.350.160.300.053.800.900.160.90.jpg"/> 
+					</item> </channel>
+				</rss>
