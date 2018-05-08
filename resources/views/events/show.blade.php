@@ -63,7 +63,7 @@
 @endsection
 
 @section('javascript')
-    <script src="https://maps.google.com/maps/api/js?key=AIzaSyDMxJ92oBkSnVNHFX3R8XhtYQPEgk1_IiI"></script>
+    <script src="https://maps.google.com/maps/api/js?key=AIzaSyDdzWe1ZSwV1x1B0SiiCTimZxnHjmQg9UI"></script>
 
     <script src="{{asset('js/jquery.gmap.js')}}"></script>
 	<script>

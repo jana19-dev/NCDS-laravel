@@ -16,10 +16,13 @@ class PublicationsController extends Controller
     }
 
     public function show($date){
+        $path = public_path().DIRECTORY_SEPARATOR.'data'.DIRECTORY_SEPARATOR.'theepam'.DIRECTORY_SEPARATOR.$date;
+        $pages = array_map('basename', File::allFiles($path));
         return view('publications.show', [
             'publications_active'=>'current', 
             'title'=>'Theepam '.date_format(date_create($date), 'd-M-Y'),
-            'date'=>$date
+            'date'=>$date,
+            'pages'=>$pages
         ]);
     }
 }
